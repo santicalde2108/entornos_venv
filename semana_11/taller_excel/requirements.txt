@@ -1,0 +1,2 @@
+openpyxl==3.1.5
+tabulate==0.10.0
